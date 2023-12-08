@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="uwu"
+
+[[mods]]
+modId="dialog_okno"
+version="0.1"
+displayName="dialog okno"
+credits=":3"
+displayURL="https://mcreator.net"
+authors="Михаил"
+
+[[dependencies.dialog_okno]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
